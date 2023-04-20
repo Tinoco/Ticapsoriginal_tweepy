@@ -24,5 +24,5 @@ for item in citations:
     linktosite = f"https://www.ticapsoriginal.com/en/{networkpage}/"
     # make tweet
     response = client.create_tweet(text=up+linktosite)
-    # awaiting time for net tweet
+    # awaiting time for next tweet
     time.sleep(80)
