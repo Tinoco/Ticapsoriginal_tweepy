@@ -31,7 +31,7 @@ Unlock read and white mode of api
 </code></pre>
 
 ## Clone ticapsoriginaltweepy repository:
-<pre><code> git clone https://github.com/Tinoco/Ticapsoriginaltweepy.git
+<pre><code> git clone https://github.com/Tinoco/Ticapsoriginal_tweepy.git
 </code></pre>
 
 ## Make tweet :
